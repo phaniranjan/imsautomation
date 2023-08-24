@@ -1,1 +1,2 @@
-Adding VIOP tests
+Added viop tests
+Removed duplate tests
